@@ -1,0 +1,8 @@
+snowflake:
+  user:  ABHISHEK
+  password: Abhishekdapse13
+  account:  BNPYJLN-NK73255
+  warehouse: COMPUTE_WH
+  database: ecommerce_db
+  schema: analytics
+  role: ACCOUNTADMIN
