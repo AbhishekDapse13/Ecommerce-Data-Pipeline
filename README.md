@@ -1,6 +1,6 @@
 In this project I have created a virtual environment for airflow.
 Make sure to install dbt-snowflake inside virtual environment.
-
+and unzip the lib folder
 
 make sure you do pip install snowflake-connector-python
 inside virtual environment
